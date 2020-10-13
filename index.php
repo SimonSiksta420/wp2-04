@@ -13,11 +13,11 @@ $computer = array(
   'CPU' => "Intel Core i7 9700K",
   'RAM' => "16 GB 3200MHZ",
   'SSD' => "SSD Samsung EVO 860 M.2 250GB",
-  'Motherboard' => "Asus Rog"
-  'Fan' => "Noctua fan"
-  'Keyboard' => "HyperX Alloy Elite RGB" 
-  'Mouse' => "Razer naga trinity"
-  'Headphones' => "Dunno"
+  'Motherboard' => "Asus Rog",
+  'Fan' => "Noctua fan",
+  'Keyboard' => "HyperX Alloy Elite RGB",
+  'Mouse' => "Razer naga trinity",
+  'Headphones' => "Dunno",
 
 );
 
