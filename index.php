@@ -23,10 +23,21 @@ $computer = array(
 
 ?>
 
-<h2>Učitel</h2>
-<p>Jméno: <?= $teacher['firstname'] . " ". $teacher['lastname'] ?></p>
-<p>Rok narození: <?= $teacher['yearOfBirth']; ?></p>
-<p>Profese: <?= $teacher['profession']; ?></p>
-    
+<h1> Computer </h1>
+
+<ul>
+
+ <li> Grafická karta <?= $computer['GPU'] ?> </li>
+ <li> Procesor <?= $computer['CPU'] ?> </li>
+ <li> RAM <?= $computer['RAM'] ?> </li>
+ <li> SSD <?= $computer['SSD'] ?> </li>
+ <li> Motherboard <?= $computer['Motherboard'] ?> </li>
+ <li> Fan <?= $computer['Fan'] ?> </li>
+ <li> Keyboard <?= $computer['Keyboard'] ?> </li>
+ <li> Mouse <?= $computer['Mouse'] ?> </li>
+ <li> Headphones <?= $computer['Headphones'] ?> </li>
+
+</ul>
+
 </body>
 </html>
